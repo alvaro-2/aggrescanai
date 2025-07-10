@@ -4,6 +4,6 @@
 
 <p align="center">
     <img src="docs/aggrescanai_logo.png" alt="AggrescanAI logo" width="300">
-</p>
+</p>  
 ---
 Easy to use notebook for predicting aggregation propensity in protein sequences using machine learning and protein language models.
