@@ -6,7 +6,7 @@
 <p align="center">
     <img src="docs/aggrescanai_logo.png" alt="AggrescanAI logo" width="300">
 </p>  
----
+
 
 ## Overview
 Protein aggregation plays a dual role in biology and biotechnology. On one hand, it is a **central mechanism in neurodegenerative diseases** such as Alzheimer’s, Parkinson’s and ALS; on the other, it represents a **major bottleneck in protein engineering**, affecting solubility, stability and yield.  
