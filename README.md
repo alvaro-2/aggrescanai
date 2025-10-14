@@ -23,7 +23,7 @@ It leverages **contextualized embeddings** from the **ProtT5 protein language mo
 - Predicts **residue-level aggregation propensity** directly from sequence.  
 - **No structural data required**, applicable to folded and disordered proteins.  
 - Employs **ProtT5 embeddings (1024-dimensional)** to capture sequence context.   
-- **Homology-augmented datasets** via HoTIDP to enhance generalization.  
+- **Homology-augmented datasets** to enhance generalization.  
 - **Validated against experimental benchmarks**.  
 - Detects **aggregation shifts caused by pathogenic mutations**.  
 - Fully open and **accessible via Google Colab**, no installation required.
