@@ -64,3 +64,13 @@ You can run AggrescanAI directly from Google Colab through an interactive notebo
    The notebook will display a **residue-level aggregation profile** (table + figure) and allow you to download the output files.
 
 ---
+
+## How to cite this work?
+
+If you use AggrescanAI in your research, please cite:
+
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jmb.2026.169643-blue)](https://doi.org/10.1016/j.jmb.2026.169643)
+
+**Navarro, A. M., Palacios, S., Galmarini, T., Bárcenas, O., Ventura, S., & Marino-Buslje, C.** (2026). AggrescanAI: Prediction of Aggregation-Prone Regions Using Contextualized Embeddings. *Journal of molecular biology*, 169643. https://doi.org/10.1016/j.jmb.2026.169643
+
+---
